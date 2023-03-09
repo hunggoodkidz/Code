@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Cai gi do do
+=======
+dfgdfgdfgdfgdfg
+>>>>>>> 88b4f674e243f27dd7301917490f2b359a776b83
+
+Sửa lại
